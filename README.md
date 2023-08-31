@@ -1,1 +1,2 @@
-- 👋 Hi, My name is Tareem Information Tech
+- 👋 Hi, My name is Tareem
+- Information Tech
