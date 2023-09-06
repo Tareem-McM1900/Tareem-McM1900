@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com/McmillerTareem
 [instagram]: https://www.instagram.com/TareemMcMiller
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/TareemMcMiller
