@@ -15,7 +15,7 @@
   - [Permissions & Allowcation](https://github.com/Tareem-McM1900/configure-Permissions)
   - [Testing Access & Denial Permissions](https://github.com/Tareem-McM1900/Testing-Permissions)
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
