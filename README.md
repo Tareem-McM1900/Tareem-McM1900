@@ -6,7 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Tareem-McM1900/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Tareem-McM1900/ticket-lifecycle)
   - [Testing The Ticketing Program](https://github.com/Tareem-McM1900/Testing-osTicketing)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure and The Virtual Machine</b>
   - [Configuring Active Directory inside the Virtual Machine](https://github.com/Tareem-McM1900/configure-AD)
   - [Network Security Groups (NSGs) Inspecting Network Protocols and the VPNs](https://github.com/Tareem-McM1900/azure-network-protocols)
   - [Testing AD and The VPN within the VMs](https://github.com/Tareem-McM1900/Testing-AD)
