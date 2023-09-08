@@ -4,7 +4,7 @@
 - <b>osTicket (HelpDesk Ticketing System)</b>
   - [osTicket: Prerequisites, Installation and Configuration](https://github.com/Tareem-McM1900/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples and Testing](https://github.com/Tareem-McM1900/ticket-lifecycle)
-  - <b>Microsoft Azure and The Virtual Machine</b>
+- <b>Microsoft Azure and The Virtual Machine</b>
   - [Configuring Active Directory inside the Virtual Machine](https://github.com/Tareem-McM1900/configure-AD)
   - [Network Security Groups (NSGs) Inspecting Network Protocols and the VPNs](https://github.com/Tareem-McM1900/azure-network-protocols)
   - [Testing AD and The VPN within the VMs](https://github.com/Tareem-McM1900/Testing-AD)
