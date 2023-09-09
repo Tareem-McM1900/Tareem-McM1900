@@ -10,7 +10,7 @@
   - [Testing AD and The VPN within the VMs](https://github.com/Tareem-McM1900/Testing-AD)
 - <b>Network File Sharing and Permissions</b>
   - [Configuring Domain Users (Groups) Folders](https://github.com/Tareem-McM1900/configure-File-Share)
-  - [Permissions & Allowcation](https://github.com/Tareem-McM1900/configure-Permissions)
+  - [Permissions & Access](https://github.com/Tareem-McM1900/configure-Permissions)
   - [Testing Access & Denial Permissions](https://github.com/Tareem-McM1900/Testing-Permissions)
 
 <h2>Connect with me:</h2>
