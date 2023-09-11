@@ -6,12 +6,13 @@
   - [osTicket: Ticket Lifecycle Examples and Testing](https://github.com/Tareem-McM1900/ticket-lifecycle)
 - <b>Microsoft Azure and The Virtual Machine</b>
   - [Configuring Active Directory inside the Virtual Machine](https://github.com/Tareem-McM1900/configure-AD)
-  - [Network Security Groups (NSGs) Inspecting Network Protocols and the VPNs](https://github.com/Tareem-McM1900/azure-network-protocols)
   - [Testing AD and The VPN within the VMs](https://github.com/Tareem-McM1900/Testing-AD)
 - <b>Network File Sharing and Permissions</b>
   - [Configuring Domain Users (Groups) Folders](https://github.com/Tareem-McM1900/configure-File-Share)
   - [Permissions & Access](https://github.com/Tareem-McM1900/configure-Permissions)
   - [Testing Access & Denial Permissions](https://github.com/Tareem-McM1900/Testing-Permissions)
+- <b>Exploring Azure and Networking Concept</b>
+  - [Network Security Groups (NSGs) Inspecting Network Protocols and the VPNs](https://github.com/Tareem-McM1900/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
