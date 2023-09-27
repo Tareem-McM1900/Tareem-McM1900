@@ -8,7 +8,7 @@
   - [Configuring Active Directory inside the Virtual Machine](https://github.com/Tareem-McM1900/configure-AD)
   - [Testing AD and The VPN within the VMs](https://github.com/Tareem-McM1900/Testing-AD)
 - <b>Network File Sharing and Permissions</b>
-  - [Configuring Domain Users (Groups) Folders](https://github.com/Tareem-McM1900/configure-File-Share)
+  - [Configuring Domain Users (Groups) Folders](https://github.com/Tareem-McM1900/configure-file-share)
   - [Permissions & Access](https://github.com/Tareem-McM1900/configure-Permissions)
   - [Testing Access & Denial Permissions](https://github.com/Tareem-McM1900/Testing-Permissions)
 - <b>Exploring Azure and Networking Concept</b>
