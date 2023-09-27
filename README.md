@@ -9,8 +9,8 @@
   - [Testing AD and The VPN within the VMs](https://github.com/Tareem-McM1900/Testing-AD)
 - <b>Network File Sharing and Permissions</b>
   - [Configuring Domain Users (Groups) Folders](https://github.com/Tareem-McM1900/configure-file-share)
-  - [Permissions & Access](https://github.com/Tareem-McM1900/configure-Permissions)
-  - [Testing Access & Denial Permissions](https://github.com/Tareem-McM1900/Testing-Permissions)
+  - [Permissions & Access](https://github.com/Tareem-McM1900/configure-permissions)
+  - [Testing Access & Denial Permissions](https://github.com/Tareem-McM1900/testing-permissions)
 - <b>Exploring Azure and Networking Concept</b>
   - [Network Security Groups (NSGs) Inspecting Network Protocols and the VPNs](https://github.com/Tareem-McM1900/azure-network-protocols)
 
