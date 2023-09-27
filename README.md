@@ -14,6 +14,13 @@
 - <b>Exploring Azure and Networking Concept</b>
   - [Network Security Groups (NSGs) Inspecting Network Protocols and the VPNs](https://github.com/Tareem-McM1900/azure-network-protocols)
 
+<h2>Project Resources and Notes</h2>
+- <b>Resources and Notes</b>
+  
+  - RESOURCES:(https://github.com/Tareem-McM1900/resources)
+  - NOTES:(https://github.com/Tareem-McM1900/notes)
+
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="McmillerTareem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
