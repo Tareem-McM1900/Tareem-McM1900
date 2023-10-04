@@ -14,6 +14,10 @@
 - <b>Exploring Azure and Networking Concept</b>
   - [Network Security Groups (NSGs) Inspecting Network Protocols and the VPNs](https://github.com/Tareem-McM1900/azure-network-protocols)
 
+<h2>Project Highlights:</h2>
+<p>
+<img src="https://i.imgur.com/QgEm7QZ.png" height="80%" width="80%" alt="Domain Users in a VM"/>
+</p>
 <h2>Project Resources and Notes</h2>
 - <b>Resources and Notes</b>
   
